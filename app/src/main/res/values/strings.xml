@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Projeto Intent Para Alunos</string>
+    <string name="navegador">Navegador</string>
+    <string name="outras_intents">Outras Intents</string>
+    <string name="chamar_n_mero">Chamar número</string>
+    <string name="discador">Discador</string>
+    <string name="pegar_imagem">Pegar imagem</string>
+    <string name="selecionar_app">Selecionar app</string>
+    <string name="lan_ar_action">Lançar action</string>
+    <string name="sair">Sair</string>
+</resources>
